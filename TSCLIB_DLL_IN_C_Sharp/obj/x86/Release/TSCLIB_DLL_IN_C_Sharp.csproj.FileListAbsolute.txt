@@ -1,0 +1,25 @@
+C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\bin\x86\Release\TSCLIB_DLL_IN_C_Sharp.exe
+C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\bin\x86\Release\TSCLIB_DLL_IN_C_Sharp.pdb
+C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.Form1.resources
+C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.Properties.Resources.resources
+C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.exe
+C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.pdb
+C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\muta_huang\Desktop\unicode\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.csprojAssemblyReference.cache
+C:\Users\muta_huang\Desktop\unicode\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.Form1.resources
+C:\Users\muta_huang\Desktop\unicode\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.Properties.Resources.resources
+C:\Users\muta_huang\Desktop\unicode\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.csproj.GenerateResource.cache
+C:\Users\muta_huang\Desktop\unicode\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\muta_huang\Desktop\unicode\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.exe
+C:\Users\muta_huang\Desktop\unicode\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.pdb
+C:\Users\muta_huang\Desktop\unicode\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\bin\x86\Release\TSCLIB_DLL_IN_C_Sharp.exe
+C:\Users\muta_huang\Desktop\unicode\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\bin\x86\Release\TSCLIB_DLL_IN_C_Sharp.pdb
+F:\Adi Mohini Mohan Kanjilal\barcode- docs\TSCLIB.DLL_VCsharp_Example\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\bin\x86\Release\TSCLIB_DLL_IN_C_Sharp.exe
+F:\Adi Mohini Mohan Kanjilal\barcode- docs\TSCLIB.DLL_VCsharp_Example\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\bin\x86\Release\TSCLIB_DLL_IN_C_Sharp.pdb
+F:\Adi Mohini Mohan Kanjilal\barcode- docs\TSCLIB.DLL_VCsharp_Example\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.csprojAssemblyReference.cache
+F:\Adi Mohini Mohan Kanjilal\barcode- docs\TSCLIB.DLL_VCsharp_Example\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.Properties.Resources.resources
+F:\Adi Mohini Mohan Kanjilal\barcode- docs\TSCLIB.DLL_VCsharp_Example\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.csproj.GenerateResource.cache
+F:\Adi Mohini Mohan Kanjilal\barcode- docs\TSCLIB.DLL_VCsharp_Example\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.csproj.CoreCompileInputs.cache
+F:\Adi Mohini Mohan Kanjilal\barcode- docs\TSCLIB.DLL_VCsharp_Example\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.exe
+F:\Adi Mohini Mohan Kanjilal\barcode- docs\TSCLIB.DLL_VCsharp_Example\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.pdb
+F:\Adi Mohini Mohan Kanjilal\barcode- docs\TSCLIB.DLL_VCsharp_Example\TSCLIB.DLL_VCsharp_Example\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp\obj\x86\Release\TSCLIB_DLL_IN_C_Sharp.barcodePrinting.resources

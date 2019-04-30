@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TSCLIB_DLL_IN_C_Sharp">
+</Property><Property Name="方案檔" Value="C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\TSCLIB_DLL_IN_C_Sharp.suo">
+</Property><Property Name="Date" Value="2017年1月5日">
+</Property><Property Name="Time" Value="下午 13:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TSCLIB_DLL_IN_C_Sharp.sln" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TSCLIB_DLL_IN_C_Sharp.suo" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp.suo">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\TSCLIB_DLL_IN_C_Sharp.csproj" Description="專案檔已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp\TSCLIB_DLL_IN_C_Sharp.csproj">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\Form1.cs" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\Form1.Designer.cs" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\Program.cs" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp\Program.cs">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\Properties\Resources.Designer.cs" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\Properties\Settings.Designer.cs" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\Properties\Settings.settings" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\Form1.resx" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\Properties\Resources.resx" Description="檔案已成功備份為 C:\Users\muta_huang\Desktop\新增資料夾\TSCLIB_DLL_IN_VCsharp_2005\Backup\TSCLIB_DLL_IN_C_Sharp\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\TSCLIB_DLL_IN_C_Sharp.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\TSCLIB_DLL_IN_C_Sharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TSCLIB_DLL_IN_C_Sharp.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="TSCLIB_DLL_IN_C_Sharp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TSCLIB_DLL_IN_C_Sharp" Source="TSCLIB_DLL_IN_C_Sharp\TSCLIB_DLL_IN_C_Sharp.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>
