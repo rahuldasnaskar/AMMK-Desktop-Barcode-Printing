@@ -1,0 +1,9 @@
+F:\Adi Mohini Mohan Kanjilal\project\AMMK Desktop Barcode Printing\AMMK-Desktop-Barcode-Printing\TSCLIB_DLL_IN_C_Sharp\bin\Debug\TSCLIB_DLL_IN_C_Sharp.exe
+F:\Adi Mohini Mohan Kanjilal\project\AMMK Desktop Barcode Printing\AMMK-Desktop-Barcode-Printing\TSCLIB_DLL_IN_C_Sharp\bin\Debug\TSCLIB_DLL_IN_C_Sharp.pdb
+F:\Adi Mohini Mohan Kanjilal\project\AMMK Desktop Barcode Printing\AMMK-Desktop-Barcode-Printing\TSCLIB_DLL_IN_C_Sharp\obj\Debug\TSCLIB_DLL_IN_C_Sharp.csprojAssemblyReference.cache
+F:\Adi Mohini Mohan Kanjilal\project\AMMK Desktop Barcode Printing\AMMK-Desktop-Barcode-Printing\TSCLIB_DLL_IN_C_Sharp\obj\Debug\TSCLIB_DLL_IN_C_Sharp.barcodePrinting.resources
+F:\Adi Mohini Mohan Kanjilal\project\AMMK Desktop Barcode Printing\AMMK-Desktop-Barcode-Printing\TSCLIB_DLL_IN_C_Sharp\obj\Debug\TSCLIB_DLL_IN_C_Sharp.Properties.Resources.resources
+F:\Adi Mohini Mohan Kanjilal\project\AMMK Desktop Barcode Printing\AMMK-Desktop-Barcode-Printing\TSCLIB_DLL_IN_C_Sharp\obj\Debug\TSCLIB_DLL_IN_C_Sharp.csproj.GenerateResource.cache
+F:\Adi Mohini Mohan Kanjilal\project\AMMK Desktop Barcode Printing\AMMK-Desktop-Barcode-Printing\TSCLIB_DLL_IN_C_Sharp\obj\Debug\TSCLIB_DLL_IN_C_Sharp.csproj.CoreCompileInputs.cache
+F:\Adi Mohini Mohan Kanjilal\project\AMMK Desktop Barcode Printing\AMMK-Desktop-Barcode-Printing\TSCLIB_DLL_IN_C_Sharp\obj\Debug\TSCLIB_DLL_IN_C_Sharp.exe
+F:\Adi Mohini Mohan Kanjilal\project\AMMK Desktop Barcode Printing\AMMK-Desktop-Barcode-Printing\TSCLIB_DLL_IN_C_Sharp\obj\Debug\TSCLIB_DLL_IN_C_Sharp.pdb
